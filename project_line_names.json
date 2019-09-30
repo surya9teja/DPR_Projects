@@ -1,6 +1,7 @@
 [
   {
     "Project":"PGCIL-1851km",
+    "Project Manager":"Devendra Singh",
     "Lines":[
       "400kV SC Alwar - Bassi"
       "400kV SC Muradnagar I - Muradabad I"
@@ -51,16 +52,33 @@
     ]
   },
   {
-    "Project":"PGCIL-521km",
+    "Project":"",
+    "Project Manager":"Devendra Singh",
     "Lines":[
 
     ]
   },
   {
-    "Project":"TS",
+    "Project":"GETCO-2226",
+    "Project Manager":"Shankar Ganeshan",
     "Lines":[
 
     ]
   },
-  
+  {
+    "Project":"GETCO-2274",
+    "Project Manager":"Shankar Ganeshan",
+    "Lines":[
+
+    ]
+  },
+  {
+    "Project":"GETCO-2274 P1",
+    "Project Manager":"Shankar Ganeshan",
+    "Lines":[
+
+    ]
+  },
+
+
 ]
