@@ -1,0 +1,66 @@
+[
+  {
+    "Project":"PGCIL-1851km",
+    "Lines":[
+      "400kV SC Alwar - Bassi"
+      "400kV SC Muradnagar I - Muradabad I"
+      "400kV SC Ballabgarh - Alwar"
+      "400kV DC Jhajjar - Mundhka"
+      "400kV SC Bassi - Heerapura"
+      "220kV SC Chittorgarh - Debari"
+      "220kV Bhilwara - Chittogarh"
+      "400kV DC RAPP - Kota"
+      "400kV SC Kota - Jaipur"
+      "132kV Alwar Link"
+      "220kV DC Ballabgarh - Badarpur"
+      "400kV Ballabgarh - Dadri HVDC"
+      "220kV Panipat - Dhulkote"
+      "220kV Panipat SLDC - Panipat TPS"
+      "400kV DC Biwani - Hissar"
+      "400kV SC Dadri HVDC - Panipat"
+      "400kV DC Dadri HVDC - Mandaula"
+      "400kV SC Dadri HVDC - Muradnagar-I"
+      "220kV Muradabad - C B Ganji II"
+      "220kV DC Badarppur - SaritaVihar"
+      "220kV DC SaritaVihar - MaharaniBagh"
+      "220kV SC LodhiRoad - MaharaniBagh"
+      "220kV MaharaniBhag - IP Extension"
+      "220kV SC Okhla - Badarpur"
+      "220kV Bamnoli - Mehrauli"
+      "220kV Najafgarh - Banmauli"
+      "220kV DC Mundka - Najafgarh"
+      "220kV DC Kanjhawala - Mundka"
+      "220kV DC Bawana - Kanjhawala"
+      "220kV DC Narela - Bawana"
+      "220kV DC Wazirabad - Gopalpur"
+      "220kV DC Patparganji - Wazirabad"
+      "220kV DC Gazipur - Patparganji"
+      "220kV DC IP Power station - Patparganji"
+      "220kV DC IP extension - IP Power station"
+      "220kV Mehrauli - Vasant Kunj"
+      "220kV Okhla Tuglakabad"
+      "220kV Tuglakabad - RK Puram"
+      "220kV Bamnauli Mehrauli Via DAIL"
+      "220kV Bamnauli - Pappankala I"
+      "220kV DC Mandola - Wazirabad Ckt-I and CKT_II"
+      "220kV IP power - RPH(Rajghat)"
+      "220kV RAPP B-Jaipur South With LILO - Kota"
+      "220kV Chittorgarh 400kV - Chittaorgarh 220kV (RVPN)"
+      "400kV Dehradur - Bagpat"
+      "400kV Bsssi - Sikar"
+    ]
+  },
+  {
+    "Project":"PGCIL-521km",
+    "Lines":[
+
+    ]
+  },
+  {
+    "Project":"TS",
+    "Lines":[
+
+    ]
+  },
+  
+]
